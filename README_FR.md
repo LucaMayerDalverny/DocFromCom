@@ -2,6 +2,41 @@
 
 DocFromCom (raccourci pour *Documentation From Comments* ou Documentation à partir de Commentaires en français) est une application en ligne de commande permettant de générer de la documentation à partir de fichiers de code commentés
 
+## À propos de DocFromCom
+
+### Comment ça marche ?
+
+DocFromCom va lire les commentaires de votre fichier de code source et créer un document à partir de ces derniers. Grace à des balises spécifiques dans vos commentaires, le document aura une super mise en page.  
+
+Les extensions disponibles pour le document généré sont celle de la liste suivante : 
+
++ markdown (.md)
++ latex (.tex)
+
+### Pour qui est-ce que ça a été conçu ?
+
+## Utiliser DocFromCom dans vos projets
+
+### Pré-requis
+
+Étant donné que DocFromCom est écrite en php, vous devez avoir php d'installé sur votre ordinateur
+
+### Installation
+
+Tout d'abord, vous devez télécharger la dernière version, qui est une archive `.phar`.
+
+## Crédits
+
++ [symfony/console](https://github.com/symfony/console)
+
+## Alternatives
+
++ [doxygen](https://github.com/doxygen/doxygen)
+
+## Mainteneur
+
+Pour le moment, le projet est dirigé et maintenu par [@LucaMayerDalverny](https://github.com/LucaMayerDalverny)
+
 ## Liens utiles
 
 + [Manuel d'installation (français)](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/INSTALLATION_MANUAL_FR.md)
