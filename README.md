@@ -6,7 +6,7 @@ DocFromCom (short for Documentation From Comments) is a command line application
 
 ### Links to other languages
 
-+ [French](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/README_FR.mdhttps://github.com/LucaMayerDalverny/DocFromCom/README_FR.md)
++ [French](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/README_FR.md)
 
 ### Useful links
 
