@@ -37,7 +37,9 @@ Tout d'abord, vous devez télécharger la dernière version, qui est une archive
 
 Pour le moment, le projet est dirigé et maintenu par [@LucaMayerDalverny](https://github.com/LucaMayerDalverny)
 
-## Liens utiles
+<!--
 
 + [Manuel d'installation (français)](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/INSTALLATION_MANUAL_FR.md)
 + [Manuel d'utilisation (français)](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/USER_MANUAL_FR.md)
+
+-->
