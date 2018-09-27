@@ -1,6 +1,6 @@
 # DocFromCom
 
-Application en ligne de commande permettant de générer de la documentation à partir de fichiers de code commentés
+DocFromCom (raccourci pour *Documentation From Comments* ou Documentation à partir de Commentaires en français) est une application en ligne de commande permettant de générer de la documentation à partir de fichiers de code commentés
 
 ## Liens utiles
 
