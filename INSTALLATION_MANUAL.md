@@ -1,9 +1,18 @@
 # DocFromCom Installation Manual
 
-## Links to other languages
+## Table of contents
 
-## Windows
+1. [Links to other languages](#links)
+2. [Installation on Windows](#windows)
+3. [Installation on Linux](#linux)
+4. [Installation on OS X](#osx)
 
-## Linux
+## Links to other languages <a name="links"></a>
 
-## OSX
++ [French](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/USER_MANUAL_FR.md)
+
+## Windows <a name="windows"></a>
+
+## Linux <a name="linux"></a>
+
+## OS X <a name="osx"></a>
