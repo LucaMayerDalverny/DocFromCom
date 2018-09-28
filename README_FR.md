@@ -13,17 +13,23 @@ Les extensions disponibles pour le document généré sont celle de la liste sui
 + markdown (.md)
 + latex (.tex)
 
-### Pour qui est-ce que ça a été conçu ?
+### Pour qui est-ce que cela a été conçu ?
+
+DocFromCom a été codé pour les développeurs qui aiment les applications en  lignes de commande et qui préfèrent générer la documentation de leur code plutôt que de l'écrire "*à la main*".  
 
 ## Utiliser DocFromCom dans vos projets
 
 ### Pré-requis
 
-Étant donné que DocFromCom est écrite en php, vous devez avoir php d'installé sur votre ordinateur
+Étant donné que DocFromCom est écrite en php, vous devez avoir php d'installé sur votre ordinateur.
 
 ### Installation
 
 Tout d'abord, vous devez télécharger la dernière version, qui est une archive `.phar`.
+
+### Utilisation
+
+Vous pouvez lire le [Manuel d'utilisation (en français)](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/USER_MANUAL_FR.md) pour savoir comment utiliser DocFromCom. 
 
 ## Crédits
 
@@ -36,10 +42,3 @@ Tout d'abord, vous devez télécharger la dernière version, qui est une archive
 ## Mainteneur
 
 Pour le moment, le projet est dirigé et maintenu par [@LucaMayerDalverny](https://github.com/LucaMayerDalverny)
-
-<!--
-
-+ [Manuel d'installation (français)](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/INSTALLATION_MANUAL_FR.md)
-+ [Manuel d'utilisation (français)](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/USER_MANUAL_FR.md)
-
--->

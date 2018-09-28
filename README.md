@@ -19,7 +19,7 @@ The extension available for the document generated are the ones from the followi
 
 ### For whom has it been created ?
 
-DocFromCom has been created for developpers who prefer command line applications and who don't want to write all the documentation of their code.
+DocFromCom has been created for developpers who love command line applications and who prefer to generate the documentation of their code instead of writting it "*by hand*".
 
 ## Using DocFromCom in your projects
 
@@ -30,6 +30,10 @@ Since DocFromCom was written in php, you must have php on your computer in order
 ### Installation
 
 First, you have to download the lastest release, which is a `.phar` archive.
+
+### Utilisation
+
+You can read the [User manual](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/USER_MANUAL.md) to know how to use DocFromCom.  
 
 ## Credits
 
@@ -42,8 +46,3 @@ First, you have to download the lastest release, which is a `.phar` archive.
 ## Maintainer
 
 For the moment, the project is led and maintained by [@LucaMayerDalverny](https://github.com/LucaMayerDalverny)
-
-
-<!-- + [User manual](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/USER_MANUAL.md)
-
--->
