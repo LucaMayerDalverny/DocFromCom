@@ -12,7 +12,7 @@ Read this in another language :
 
 DocFromCom will read the comments from your source code and create a document from it. Thanks to specific tags in your comments, the document generated will have a great look.
 
-The extension available for the document generated are the ones from the following list :
+The extensions available for the document generated are the ones from the following list :
 
 + markdown (.md)
 + latex (.tex)
@@ -25,13 +25,13 @@ DocFromCom has been created for developpers who love command line applications a
 
 ### Requirements
 
-Since DocFromCom was written in php, you must have php on your computer in order to run it
+Since DocFromCom was written in php, you must have php on your computer in order to run it (link to the download for [Windows](https://windows.php.net/download/)).
 
 ### Installation
 
-First, you have to download the lastest release, which is a `.phar` archive.
+First, you have to download the [lastest release](https://github.com/LucaMayerDalverny/DocFromCom/releases), which is a `.phar` archive.
 
-### Utilisation
+### Use
 
 You can read the [User manual](https://github.com/LucaMayerDalverny/DocFromCom/blob/master/USER_MANUAL.md) to know how to use DocFromCom.  
 

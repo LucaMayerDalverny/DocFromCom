@@ -8,24 +8,24 @@ DocFromCom (raccourci pour *Documentation From Comments* ou Documentation à par
 
 DocFromCom va lire les commentaires de votre fichier de code source et créer un document à partir de ces derniers. Grace à des balises spécifiques dans vos commentaires, le document aura une super mise en page.  
 
-Les extensions disponibles pour le document généré sont celle de la liste suivante : 
+Les extensions disponibles pour le document généré sont celles de la liste suivante :
 
 + markdown (.md)
 + latex (.tex)
 
 ### Pour qui est-ce que cela a été conçu ?
 
-DocFromCom a été codé pour les développeurs qui aiment les applications en  lignes de commande et qui préfèrent générer la documentation de leur code plutôt que de l'écrire "*à la main*".  
+DocFromCom a été codé pour les développeurs qui aiment les applications en lignes de commande et qui préfèrent générer la documentation de leur code plutôt que de l'écrire "*à la main*".  
 
 ## Utiliser DocFromCom dans vos projets
 
 ### Pré-requis
 
-Étant donné que DocFromCom est écrite en php, vous devez avoir php d'installé sur votre ordinateur.
+Étant donné que l'application DocFromCom est écrite en php, vous devez avoir php d'installé sur votre ordinateur (lien d'intallation pour [Windows](https://windows.php.net/download/)).
 
 ### Installation
 
-Tout d'abord, vous devez télécharger la dernière version, qui est une archive `.phar`.
+Tout d'abord, vous devez télécharger la [dernière version](https://github.com/LucaMayerDalverny/DocFromCom/releases), qui est une archive `.phar`.
 
 ### Utilisation
 
