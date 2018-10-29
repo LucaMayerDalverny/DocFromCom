@@ -2,9 +2,14 @@
 
 ## Sommaire
 
-1. [Génération de documentation](#generateur)
+1. [Conseils d'utilisation](#conseils)
+2. [Génération de documentation](#generateur)
     1. [Commande](#generateurcommande)
     2. [Écriture des commentaires](#generateurcommentaires)
+
+## Conseils d'utilisation <a name="#conseils"></a>
+
+DocFromCom se présente sous la forme d'une archive `.phar`. Plutôt que de placer cette archive à la racine de votre projet et de la copier à chaque création d'un nouveau projet, il est recommandé de placer l'archive dans le dossier où se situent tous vos projets.
 
 ## Génération de documentation <a name="#generateur"></a>
 
@@ -24,7 +29,7 @@ Le chemin vers le fichier de code source peut être absolu ou relatif. Les langa
 Les extensions de sortie disponibles sont :
 
 + `md` pour avoir la documentation en [markdown](https://fr.wikipedia.org/wiki/Markdown) (valeur par défault)
-+ `tex` pour avoir la documentation en [LaTeX](https://fr.wikipedia.org/wiki/LaTeX) 
++ `tex` pour avoir la documentation en [LaTeX](https://fr.wikipedia.org/wiki/LaTeX)
 
 Les langues disponibles pour les éléments ajoutés au fichier de sortie par DocFromCom sont :
 
